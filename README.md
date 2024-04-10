@@ -3,6 +3,7 @@
 <h3 align="center">IT analyst from Russia 🇷🇺</h3>
 
 <h4 align="center">I'm currently learning python</h4>
+<h4 align="center">Come see my works here: https://github.com/Sweetr-feelin/py_study1</h4>
 
 <!--
 **Sweetr-feelin/Sweetr-feelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
