@@ -1,5 +1,5 @@
-<h1 align="center">
-<img src="[https://github.com/Sweetr-feelin/Sweetr-feelin/blob/main/header.png]"/></h1>
+<img src="[https://github.com/Sweetr-feelin/Sweetr-feelin/blob/main/header.png]"/>
+
 <h3 align="center">IT analyst from Russia 🇷🇺</h3>
 
 <!--
