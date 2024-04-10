@@ -1,4 +1,4 @@
-<img src="[https://github.com/Sweetr-feelin/Sweetr-feelin/blob/main/header.png]"/>
+<img src="https://github.com/Sweetr-feelin/Sweetr-feelin/blob/main/header.png">
 
 <h3 align="center">IT analyst from Russia 🇷🇺</h3>
 
